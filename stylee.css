@@ -1,0 +1,88 @@
+body{
+    margin: auto;
+}
+.cv {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv1 {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+
+    padding: 40px
+}
+
+
+h1{
+    color: #0e2452;
+}
+
+
+
+.hearder{
+    font-size: x-large;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.information{
+    font-size: 18px;
+}
+
+.i{
+    left: 250px;
+    position: absolute;
+}
+
+.content{
+    font-size: 20px;
+}
+
+.space{
+    padding-bottom: 40px;
+}
+
+.date{
+    padding-right: 100px;
+}
+
+.project-header{
+    font-weight:600;
+    font-size:30px;
+}
+
+
+.point-list {
+    list-style-type: disc; 
+    padding-left: 40px;
+}
+
+.point {
+    margin-bottom: 5px;
+    font-size:18px;
+    font-weight:600;
+}
+
+.point-description{
+    font-weight:normal;
+}
